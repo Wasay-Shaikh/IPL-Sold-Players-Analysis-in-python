@@ -1,9 +1,10 @@
-# IPL-Sold-Players-Analysis-in-python
-This repository contains all the required files through which you get all the useful insights and also you can use it for your own practice. Do contact for any kind of help
+
 
 <h1 align="center">IPL Sold Players Analysis</h1>
+This repository contains all the required files through which you get all the useful insights and also you can use it for your own practice. Do contact for any kind of help
+
 <h2 align="left">Tools</h3>
-<h4 align="left">Python</h5> 
+<h3 align="left">Python</h4> 
 
 
 <h2 align="left">Steps</h3>
